@@ -1,1 +1,1 @@
-A rough test of random random story generation :)
+A rough test of random story generation :)
